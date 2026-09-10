@@ -1,9 +1,4 @@
 print("this is from ganesh")
 hii
 hlooo
-bye
-ganesh
-going
-iam coming
 hii ganesh
-bye ganesh
